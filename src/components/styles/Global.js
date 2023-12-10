@@ -9,7 +9,7 @@ const GlobalStyles = createGlobalStyle`
   };
 
   body {
-    --turqoise: #66E2DC;
+    --turquoise: #66E2DC;
     --orange: #FA7453;
     --yellow: #FFB964;
     --text-light: #FCFAF9;
